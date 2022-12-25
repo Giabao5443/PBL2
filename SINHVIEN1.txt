@@ -1,0 +1,23 @@
+22
+Nguyen Viet Hoai Bao,12/2/2003,21tclcnhat1,102210028,10
+Hoang Le Anh Binh,4/6/2003,21tclcnhat1,102210029,5
+Nguyen Duc Chung,5/7/2003,21tclcnhat1,102210030,10
+Le Minh Duy,22/12/2003,21tclcnhat1,102210031,5
+Nguyen Thi Thu Ha,12/5/2003,21tclcnhat1,102210032,8
+Le Trung Tuan, 11/1/2001,21c4clc1,103210039,9.5
+Pham Trung Hieu,30/11/2003,21tclcnhat1,102210034,8
+Tran Kim Hieu,23/7/2003,21tclcnhat1,102210035,10
+Chau Diem Hoang,27/1/2003,21tclcnhat1,102210036,7
+Doan Thi Phuoc Huyen,1/3/2003,21tclcnhat1,102210037,3
+Truong Cong Hoang Long,25/9/2003,21tclcnhat1,102210038,8
+Dang Nhat Minh,19/10/2003,21tclcnhat1,102210039,1
+Nguyen Truong Anh Minh,20/5/2003,21tclcnhat1,102210040,2
+Tran Le Minh,4/1/2003,21tclcnhat1,102210041,8
+Nguyen Minh Ngoc,16/3/2003,21tclcnhat1,102210042,9
+Nguyen Ngoc Bao Nhan,30/8/2003,21tclcnhat1,102210043,2
+Nguyen Ho Minh Quan,25/12/2003,21tclcnhat1,102210044,5
+Tran Tan Thanh,9/12/2003,21tclcnhat1,102210045,8
+Huynh Thi Hoang Thu,6/6/2003,21tclcnhat1,102210046,2
+Dang Thien Binh,7/8/1978,21tclcnhat1,102210321,10
+D,2/3/2000,21w,102210343,2
+Ngu,3/5/2002,21e,102210343,3
